@@ -1,0 +1,35 @@
+# Rider / JetBrains
+.idea/
+*.sln.iml
+*.user
+*.DotSettings.user
+
+# Build results
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.suo
+*.userprefs
+*.csproj.user
+
+# Database files (ваши .mdf, .ldf, если они в папке проекта)
+*.mdf
+*.ldf
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Publish folder
+publish/
